@@ -2,11 +2,10 @@
 
 # dependencies
 /node_modules
-config.js
 /.pnp
 .pnp.js
 .history
-config.js
+
 
 # testing
 /coverage
@@ -24,3 +23,5 @@ config.js
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+# adding the config key
+/src/config.js

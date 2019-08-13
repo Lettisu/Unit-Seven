@@ -1,6 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Codiversers to assist with this build please create an API key as follows:
+const apiKey = "Your API Key";
+export default apiKey;
 ## Available Scripts
+Future Self:
+Please run in the Terminal
+npm install
+npm start
+
+Above all do NOT forget to have Fun
 
 In the project directory, you can run:
 

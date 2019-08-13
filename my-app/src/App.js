@@ -4,7 +4,7 @@ import { Route, Switch, Redirect } from 'react-router-dom';
 import NotFound from './components/NotFound';
 import Photos from './components/Photos';
 import Header from './components/Header';
-import apiKey from './config';
+import apiKey from './components/config';
 
 
 export default class App extends Component {

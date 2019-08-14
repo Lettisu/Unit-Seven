@@ -3,7 +3,7 @@ const NotFound = () => {
     return (
         <div className="Not Found">
             <h3> "No results found" </h3>
-            <p> "You search did not return any results. Please try again." </p>
+            <p> "404 error Page not found" </p>
         </div>)
 }
 export default NotFound;
